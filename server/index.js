@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 import express from "express";
 import cors from "cors";
 import fs from "fs";
-import fileReader from "./file_reader.js";
+// import fileReader from "./file_reader.js";
 import pythonFile from "./pythonCall.js";
 import { spawn } from "child_process";
 
