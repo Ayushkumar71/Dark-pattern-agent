@@ -1,6 +1,6 @@
 Articles
 Articles
-AppsGamesMain menuHome GamesActionAdventureArcadeBoardCardCasinoEducationalFamilyMusicPuzzleRacingRole PlayingSimulationSportsStrategyTriviaUtilitiesWordAIMain menuHome AIAI AudioAI ChatAI CodingAI Image generator & editorAI ProductivityAI Video generator & editorAI Writing assistantBrowsersMain menuHome BrowsersAdd-ons & ToolsWeb browsersSecurity & PrivacyMain menuHome Security & PrivacyAccess ControlAd BlockersAnti-Spam & Anti-SpyAntivirusEncryptionFirewallsKeyloggersPassword managementVPNBusiness & ProductivityMain menuHome Business & ProductivityAccountingAgenda & CalendarsBanking & ATMCalculators & ConvertersDocument ManagementE-mail ClientsFinanceOffice SuitesPersonal Finance ManagementProject ManagementRemote PCInternet & NetworkMain menuHome Internet & NetworkDownload ManagersFile Sharing & Peer to PeerSearch & Lookup toolsWifiMultimedia  Main menuHome Multimedia  AudioBurningGraphic & DesignMovies & TVMusic & RadioPhotographyStreaming videosVideoDevelopment & ITMain menuHome Development & ITBackup & Cloud StorageDatabaseDevelopment kitsFTP ClientsIDEs/Source EditorsManual & TutorialsNetworkingProgramming LanguagesRemote controlServersWeb developmentEducation & ReferenceMain menuHome Education & ReferenceBooksCatalogsDictionariesE-readersGeographyLanguages & TranslationMagazines & NewspapersMedicineScienceTeaching  & TrainingLifestyleMain menuHome LifestyleFashion & StyleFood & DrinkGrocery listsHealth & FitnessHobbiesMedicalProduct reviews & ComparisonShoppingSportsTicketing ServiceWeatherWorkoutPersonalizationMain menuHome PersonalizationCursors & FontsRingtones & soundsScreen lockersScreen SaversThemesWallpaperSocial & CommunicationMain menuHome Social & CommunicationBlogChat & Instant MessagingPhoto & Video sharingSocial networkingTravel & NavigationMain menuHome Travel & NavigationMaps & GPSPublic TransportationTrip managementUtilities & ToolsMain menuHome Utilities & ToolsBar code scanningClocks & AlarmsData RecoveryFile CompressionFile managersKeyboardsMeasurementPrinter & FaxScreen CaptureBrowser GamesRoblox GamesGoogle Chrome ExtensionsWordpressBest ProductsMain menuBest VPNBest AntivirusBest Image EditorsBest Free to Play GamesBest PC Games
+AppsGamesMain menuHome GamesActionAdventureArcadeBoardCardCasinoEducationalFamilyMusicPuzzleRacingRole PlayingSimulationSportsStrategyTriviaUtilitiesWordAIMain menuHome AIAI AudioAI ChatAI CodingAI Image generator & editorAI ProductivityAI Video generator & editorBrowsersMain menuHome BrowsersAdd-ons & ToolsWeb browsersSecurity & PrivacyMain menuHome Security & PrivacyAccess ControlAd BlockersAnti-Spam & Anti-SpyAntivirusEncryptionFirewallsKeyloggersPassword managementVPNBusiness & ProductivityMain menuHome Business & ProductivityAccountingAgenda & CalendarsBanking & ATMCalculators & ConvertersDocument ManagementE-mail ClientsFinanceOffice SuitesPersonal Finance ManagementProject ManagementRemote PCInternet & NetworkMain menuHome Internet & NetworkDownload ManagersFile Sharing & Peer to PeerSearch & Lookup toolsWifiMultimedia  Main menuHome Multimedia  AudioBurningGraphic & DesignMovies & TVMusic & RadioPhotographyStreaming videosVideoDevelopment & ITMain menuHome Development & ITBackup & Cloud StorageDatabaseDevelopment kitsFTP ClientsIDEs/Source EditorsManual & TutorialsNetworkingProgramming LanguagesRemote controlServersWeb developmentEducation & ReferenceMain menuHome Education & ReferenceBooksCatalogsDictionariesE-readersGeographyLanguages & TranslationMagazines & NewspapersMedicineScienceTeaching  & TrainingLifestyleMain menuHome LifestyleFashion & StyleFood & DrinkGrocery listsHealth & FitnessHobbiesMedicalProduct reviews & ComparisonShoppingSportsTicketing ServiceWeatherWorkoutPersonalizationMain menuHome PersonalizationCursors & FontsRingtones & soundsScreen lockersScreen SaversThemesWallpaperSocial & CommunicationMain menuHome Social & CommunicationBlogChat & Instant MessagingPhoto & Video sharingSocial networkingTravel & NavigationMain menuHome Travel & NavigationMaps & GPSTrip managementUtilities & ToolsMain menuHome Utilities & ToolsBar code scanningClocks & AlarmsData RecoveryFile CompressionFile managersKeyboardsMeasurementPrinter & FaxScreen CaptureBrowser GamesRoblox GamesGoogle Chrome ExtensionsWordpressBest ProductsMain menuBest VPNBest AntivirusBest Image EditorsBest Free to Play GamesBest PC Games
 Apps
 GamesMain menuHome GamesActionAdventureArcadeBoardCardCasinoEducationalFamilyMusicPuzzleRacingRole PlayingSimulationSportsStrategyTriviaUtilitiesWord
 Main menu
@@ -42,7 +42,7 @@ Utilities
 Utilities
 Word
 Word
-AIMain menuHome AIAI AudioAI ChatAI CodingAI Image generator & editorAI ProductivityAI Video generator & editorAI Writing assistant
+AIMain menuHome AIAI AudioAI ChatAI CodingAI Image generator & editorAI ProductivityAI Video generator & editor
 Main menu
 Home AI
 Home AI
@@ -58,8 +58,6 @@ AI Productivity
 AI Productivity
 AI Video generator & editor
 AI Video generator & editor
-AI Writing assistant
-AI Writing assistant
 BrowsersMain menuHome BrowsersAdd-ons & ToolsWeb browsers
 Main menu
 Home Browsers
@@ -254,14 +252,12 @@ Photo & Video sharing
 Photo & Video sharing
 Social networking
 Social networking
-Travel & NavigationMain menuHome Travel & NavigationMaps & GPSPublic TransportationTrip management
+Travel & NavigationMain menuHome Travel & NavigationMaps & GPSTrip management
 Main menu
 Home Travel & Navigation
 Home Travel & Navigation
 Maps & GPS
 Maps & GPS
-Public Transportation
-Public Transportation
 Trip management
 Trip management
 Utilities & ToolsMain menuHome Utilities & ToolsBar code scanningClocks & AlarmsData RecoveryFile CompressionFile managersKeyboardsMeasurementPrinter & FaxScreen Capture
@@ -320,7 +316,7 @@ PWA
 PWA
 Web Apps
 Web Apps
-Change languageMain menuSoftonic in:عربيDeutschEnglishEspañolFrançaisBahasa IndonesiaItaliano日本語한국어/조선말NederlandsPolskiPortuguêsРусскийSvenskaภาษาไทยTürkçeTiếng Việt中文
+Change languageMain menuSoftonic in:عربيDeutschEnglishEspañolFrançaisBahasa IndonesiaItaliano日本語한국어NederlandsPolskiPortuguêsРусскийSvenskaภาษาไทยTürkçeTiếng Việt中文
 Main menu
 Softonic in:
 عربي
@@ -339,8 +335,8 @@ Italiano
 Italiano
 日本語
 日本語
-한국어/조선말
-한국어/조선말
+한국어
+한국어
 Nederlands
 Nederlands
 Polski
@@ -366,381 +362,71 @@ Games
 Games
 News
 News
-Advertisement
-Advertisement
-Windows
-Windows
+Trending
+Creativity by Adobe
+Creativity by Adobe
+Security by Avast
+Security by Avast
+Streaming
+Streaming
 Games
 Games
-Action
-Action
-Grand Theft Auto: San Andreas
-Grand Theft Auto: San Andreas for Windows
-Grand Theft Auto: San Andreas for Windows
-Paid
-Paid
-In English
-V varies-with-devices
-4.2(41469)
-4.2
-Download for Windows
-Buy nowFrom trusted partner
-Softonic review
-Shaun JoosteUpdated 17 days ago
-Experience an action-packed criminal life
-Grand Theft Auto: San Andreas is an iconic action game developed by Rockstar Games which left an everlasting mark on the history of video games. If you like action-adventure games, roaming the open world, and enthralling narratives, this title takes you on an unforgettable journey. 
-action
-video games
-action-adventure
-open world
-Assume the role of Carl Johnson, AKA CJ, in Grand Theft Auto: San Andreas, who goes back to Los Santos following his mother’s murder. Immediately drawn back to his former gang and life of crime, CJ clashes against corrupt authorities and influential criminals in the city.
-The freedom to explore 
-Grand Theft Auto: San Andreas, better known as GTA: San Andreas, is an action and open-world game originally released in 2004. It's set in San Andreas, the fictional U.S. state, consisting of three major cities: Los Santos, San Fierro, and Las Venturas. All of them are based on real locations: Los Angeles, San Francisco, and Las Vegas, respectively. These locations feature references to real-life elements. A downside is that the graphics and animations feel dated. 
-One of the most distinctive features of the game is its acclaimed freedom of action. From the moment you take control of CJ, you find yourself immersed in a vast environment where you can explore the city and rural areas at your leisure. You can do it all: explore, steal vehicles, complete missions, and cause chaos. The final decision is yours — but make sure you’re ready to face the consequences. 
-Great missions, activities, and story 
-In GTA: San Andreas, there is no time to rest. Apart from its story, you will have a wide variety of side tasks and activities to enjoy. From illegal races to heists, air combat, and gang wars, this title will never let up. The game also features character customization. That means you can improve CJ’s endurance, strength, and even his 'sex appeal' to turn him into a true criminal boss. 
-The plot thickens as you find yourself involved in a series of situations that will take you straight to the heart of San Andreas' criminal world. The story will captivate you from the beginning, thanks to its charismatic characters, emotional moments, and a few unexpected twists that will keep your interest every step of the way. All of these are revealed through various missions. However, some devices frequently encounter bugs running this old title. 
-Relive the legacy of San Andreas 
-Grand Theft Auto: San Andreas has become a cult classic within the video game industry. Its success has led to remastered versions and adaptations for multiple platforms. One of the most recent examples is Grand Theft Auto: The Trilogy - The Definitive Edition, which brings back the world of San Andreas, updated for the new generation of consoles. Overall, this game offers a whole experience that action and crime game enthusiasts shouldn’t miss. 
-PROS
-Action-packed missions and activities
-Engaging storyline
-Character and appearance customization
-Vast and immersive environment
-CONS
-Low quality graphics and movements
-Frequent bugs on some devices due to the dated engine
-1/5
-Grand Theft Auto: San Andreas 2/5
-Grand Theft Auto: San Andreas 2/5
-Grand Theft Auto: San Andreas 3/5
-Grand Theft Auto: San Andreas 3/5
-Grand Theft Auto: San Andreas 4/5
-Grand Theft Auto: San Andreas 4/5
-Grand Theft Auto: San Andreas 5/5
-Grand Theft Auto: San Andreas 5/5
-App specs
-LicensePaid
-License
-Paid
-Latest updateNov 15, 2024
-Latest update
-Nov 15, 2024
-PlatformWindows
-Platform
-Windows
-OSWindows 8.1
-OS
-Windows 8.1
-LanguageEnglishAvailable languagesEnglishSpanishFrenchItalianJapaneseDutchRussian
-Language
-English
-Available languages
-English
-Spanish
-French
-Italian
-Japanese
-Dutch
-Russian
-Downloads5MLast month's downloads146K
-Downloads
-5M
-Last month's downloads
-146K
-Developerrockstargames | More Programs (55)
-Developer
-rockstargames
-More Programs (55)
-Rate it!
-Report Software
-Report Software
-Tutorials about Grand Theft Auto: San Andreas
-Tutorials about Grand Theft Auto: San Andreas
-Program available in other languages
-Descargar Grand Theft Auto: San Andreas [ES]
-Descargar Grand Theft Auto: San Andreas
-Grand Theft Auto: San Andreas indir [TR]
-Grand Theft Auto: San Andreas indir
-下载Grand Theft Auto: San Andreas [ZH]
-下载Grand Theft Auto: San Andreas
-Télécharger Grand Theft Auto: San Andreas [FR]
-Télécharger Grand Theft Auto: San Andreas
-ดาวน์โหลด Grand Theft Auto: San Andreas [TH]
-ดาวน์โหลด Grand Theft Auto: San Andreas
-Скачать Grand Theft Auto: San Andreas [RU]
-Скачать Grand Theft Auto: San Andreas
-Unduh Grand Theft Auto: San Andreas [ID]
-Unduh Grand Theft Auto: San Andreas
-Ladda ner Grand Theft Auto: San Andreas [SV]
-Ladda ner Grand Theft Auto: San Andreas
-Download do Grand Theft Auto: San Andreas [PT]
-Download do Grand Theft Auto: San Andreas
-Pobierz Grand Theft Auto: San Andreas [PL]
-Pobierz Grand Theft Auto: San Andreas
-Scarica Grand Theft Auto: San Andreas [IT]
-Scarica Grand Theft Auto: San Andreas
-Tải xuống Grand Theft Auto: San Andreas [VI]
-Tải xuống Grand Theft Auto: San Andreas
-Grand Theft Auto: San Andreas 다운로드 [KO]
-Grand Theft Auto: San Andreas 다운로드
-ダウンロードGrand Theft Auto: San Andreas [JA]
-ダウンロードGrand Theft Auto: San Andreas
-Download Grand Theft Auto: San Andreas [NL]
-Download Grand Theft Auto: San Andreas
-تنزيل Grand Theft Auto: San Andreas [AR]
-تنزيل Grand Theft Auto: San Andreas
-Grand Theft Auto: San Andreas herunterladen [DE]
-Grand Theft Auto: San Andreas herunterladen
-Grand Theft Auto: San Andreas for PC
-Grand Theft Auto: San Andreas for PC
-Paid
-Paid
-In English
-V varies-with-devices
-4.2(41469)
-4.2
-Download for PC
-Buy nowFrom trusted partner
-User reviews about Grand Theft Auto: San Andreas
-by Astroreviewed on October 28, 2024Hi. this is also another fake game. Please buy the original release instead of getting a virus from opener" title="faketonic.com">faketonic.com. I got a virus from downloading one of their other games and my brother's PC bluescreened after getting GTA from here More
-by Astro
-Hi. this is also another fake game. Please buy the original release instead of getting a virus from opener" title="faketonic.com">faketonic.com. I got a virus from downloading one of their other games and my brother's PC bluescreened after getting GTA from here
-opener" title="faketonic.com">faketonic.com
- More
-by Savneet Singhreviewed on August 11, 2023Garage House DJ Academy Ghaziabad is providing the Most Professional DJ Course in India, Delhi NCRurse/best-dj-course-in-delhi-ncr/" rel="nofollow noopener" title="https://www.garagehouseacademy.in/course/best-dj-course-in-delhi-ncr/">Best DJ Course in Ghaziabad, Delhi NCR  More
-by Savneet Singh
-Garage House DJ Academy Ghaziabad is providing the Most Professional DJ Course in India, Delhi NCRurse/best-dj-course-in-delhi-ncr/" rel="nofollow noopener" title="https://www.garagehouseacademy.in/course/best-dj-course-in-delhi-ncr/">Best DJ Course in Ghaziabad, Delhi NCR 
-urse/best-dj-course-in-delhi-ncr/" rel="nofollow noopener" title="https://www.garagehouseacademy.in/course/best-dj-course-in-delhi-ncr/">Best DJ Course in Ghaziabad, Delhi NCR 
- More
-by tefmreviewed on October 1, 2021iPhone 13 comes with specifications very similar to the previous brother iPhone 12, and iPhone 13 comes without the charger head in order to preserve the environment as well, and it comes in a strong price category in which there is the Samsung S21 Plus.  iphone 13    iphone 13 pro   iPad mini 6 price ويكي موب    face app pro  More
-by tefm
-iPhone 13 comes with specifications very similar to the previous brother iPhone 12, and iPhone 13 comes without the charger head in order to preserve the environment as well, and it comes in a strong price category in which there is the Samsung S21 Plus.
-  iphone 13    iphone 13 pro   iPad mini 6 price 
-  iphone 13  
- iphone 13 pro 
- iPad mini 6 price 
-ويكي موب    face app pro 
-ويكي موب
-   face app pro 
- More
-by Viktor Ivanticreviewed on July 15, 2021tats fake!!!!!!!!!!!!!!!!! More
-by Viktor Ivantic
-tats fake!!!!!!!!!!!!!!!!!
- More
-by Infinity  Butwal Ridersreviewed on April 22, 2020badnice goodnice badbadnice goodnice badnice goodgoodgoodnice goodbadnice <br>goodnice badnice goodgoodnice good More
-by Infinity  Butwal Riders
-badnice goodnice badbadnice goodnice badnice goodgoodgoodnice goodbadnice <br>goodnice badnice goodgoodnice good
- More
-by Kartikey Vermareviewed on April 13, 2020BEST GAME EVER. ITS MY CHILDHOOD LOVE AND THE BEST MEMORIES I HAVE OF TIME WELL SPENT WERE MADE DURING PLAYING THIS GAME More
-by Kartikey Verma
-BEST GAME EVER. ITS MY CHILDHOOD LOVE AND THE BEST MEMORIES I HAVE OF TIME WELL SPENT WERE MADE DURING PLAYING THIS GAME
- More
-Rate it!
-Advertisement
-Top Mods for Grand Theft Auto: San Andreas
-California and Nevada text conversionExperience San Andreas with a fresh twist
-California and Nevada text conversionExperience San Andreas with a fresh twist
-California and Nevada text conversion
-Experience San Andreas with a fresh twist
-Tupac Body Tattoos Slim body onlyA free mod for Grand Theft Auto: San Andreas, by Cj.
-Tupac Body Tattoos Slim body onlyA free mod for Grand Theft Auto: San Andreas, by Cj.
-Tupac Body Tattoos Slim body only
-A free mod for Grand Theft Auto: San Andreas, by Cj.
-The Dark Knight BeginsA free mod for Grand Theft Auto: San Andreas, by S282 and The Dark Knight Begins Team.
-The Dark Knight BeginsA free mod for Grand Theft Auto: San Andreas, by S282 and The Dark Knight Begins Team.
-The Dark Knight Begins
-A free mod for Grand Theft Auto: San Andreas, by S282 and The Dark Knight Begins Team.
-CJ Brown Suitcase (Fixed UV and a New HQ Model)A free mod for Grand Theft Auto: San Andreas, by Cezar700 and Zeneric.
-CJ Brown Suitcase (Fixed UV and a New HQ Model)A free mod for Grand Theft Auto: San Andreas, by Cezar700 and Zeneric.
-CJ Brown Suitcase (Fixed UV and a New HQ Model)
-A free mod for Grand Theft Auto: San Andreas, by Cezar700 and Zeneric.
-Criminal Russia Winter Stories 2021A free mod for Grand Theft Auto: San Andreas, by Artonick Games.
-Criminal Russia Winter Stories 2021A free mod for Grand Theft Auto: San Andreas, by Artonick Games.
-Criminal Russia Winter Stories 2021
-A free mod for Grand Theft Auto: San Andreas, by Artonick Games.
-More
-Top downloads Action  for Windows
-Grand Theft Auto: Vice CityGrand Theft Auto Vice City: A great journey to world of crime
-Grand Theft Auto: Vice CityGrand Theft Auto Vice City: A great journey to world of crime
-Grand Theft Auto: Vice City
-Grand Theft Auto Vice City: A great journey to world of crime
-Grand Theft Auto VGTA V: Rockstar's open-world blockbuster
-Grand Theft Auto VGTA V: Rockstar's open-world blockbuster
-Grand Theft Auto V
-GTA V: Rockstar's open-world blockbuster
-Grand Theft Auto: San AndreasExperience an action-packed criminal life
-Grand Theft Auto: San AndreasExperience an action-packed criminal life
-Grand Theft Auto: San Andreas
-Experience an action-packed criminal life
-Project IGIA popular first-person shooter game for Windows
-Project IGIA popular first-person shooter game for Windows
-Project IGI
-A popular first-person shooter game for Windows
-Free Fire (GameLoop)Free popular game on PC
-Free Fire (GameLoop)Free popular game on PC
-Free Fire (GameLoop)
-Free popular game on PC
-More
-Advertisement
-Related topics about Grand Theft Auto: San Andreas
-Graphic Editor For Windows
-Graphic Editor For Windows
-San Andreas Games
-San Andreas Games
-san andreas
-san andreas
-customization for windows
-customization for windows
-games for windows
-games for windows
-grand theft auto for windows
-grand theft auto for windows
-open world games
-open world games
-to do for windows
-to do for windows
-Advertisement
-4FreeCall of Duty: Mobile for PCA classic shooter game for Windows PCs
-4FreeCall of Duty: Mobile for PCA classic shooter game for Windows PCs
-4
-Free
-Call of Duty: Mobile for PC
-A classic shooter game for Windows PCs
-4.2FreePUBG MobileOne of the most popular Battle Royale games!
-4.2FreePUBG MobileOne of the most popular Battle Royale games!
-4.2
-Free
-PUBG Mobile
-One of the most popular Battle Royale games!
-4FreeGrand Theft Auto VGTA V: Rockstar's open-world blockbuster
-4FreeGrand Theft Auto VGTA V: Rockstar's open-world blockbuster
-4
-Free
-Grand Theft Auto V
-GTA V: Rockstar's open-world blockbuster
-3.9FreeGrand Theft Auto: Vice CityGrand Theft Auto Vice City: A great journey to world of crime
-3.9FreeGrand Theft Auto: Vice CityGrand Theft Auto Vice City: A great journey to world of crime
-3.9
-Free
-Grand Theft Auto: Vice City
-Grand Theft Auto Vice City: A great journey to world of crime
-Explore More
-Raiden NOVA4.4FreeRaiden NOVA: A Modern Take on Classic Shooters
-Raiden NOVA4.4FreeRaiden NOVA: A Modern Take on Classic Shooters
-Raiden NOVA
-4.4
-4.4
-Free
-Raiden NOVA: A Modern Take on Classic Shooters
-Sadball4.5FreeExplore Unique Worlds in Sadball
-Sadball4.5FreeExplore Unique Worlds in Sadball
-Sadball
-4.5
-4.5
-Free
-Explore Unique Worlds in Sadball
-Death Blonde4FreeAn Action-Packed Multiplayer Arena Shooter
-Death Blonde4FreeAn Action-Packed Multiplayer Arena Shooter
-Death Blonde
-4
-4
-Free
-An Action-Packed Multiplayer Arena Shooter
-Riot Ride4.4FreeFuturistic vehicle action roguelike game for PC
-Riot Ride4.4FreeFuturistic vehicle action roguelike game for PC
-Riot Ride
-4.4
-4.4
-Free
-Futuristic vehicle action roguelike game for PC
-BEHEMOTH4.8FreeDynamic Action Game: BEHEMOTH
-BEHEMOTH4.8FreeDynamic Action Game: BEHEMOTH
-BEHEMOTH
-4.8
-4.8
-Free
-Dynamic Action Game: BEHEMOTH
-Call of Duty: Mobile for PC4FreeA classic shooter game for Windows PCs
-Call of Duty: Mobile for PC4FreeA classic shooter game for Windows PCs
-Call of Duty: Mobile for PC
-4
-4
-Free
-A classic shooter game for Windows PCs
-Among Us4.3FreeA game of teamwork and deception
-Among Us4.3FreeA game of teamwork and deception
-Among Us
-4.3
-4.3
-Free
-A game of teamwork and deception
-Project IGI4.2FreeA popular first-person shooter game for Windows
-Project IGI4.2FreeA popular first-person shooter game for Windows
-Project IGI
-4.2
-4.2
-Free
-A popular first-person shooter game for Windows
-Human Fall Flat VR4.4FreeEngaging VR Experience in Human Fall Flat
-Human Fall Flat VR4.4FreeEngaging VR Experience in Human Fall Flat
-Human Fall Flat VR
-4.4
-4.4
-Free
-Engaging VR Experience in Human Fall Flat
-Free Fire (GameLoop)4.4FreeFree popular game on PC
-Free Fire (GameLoop)4.4FreeFree popular game on PC
-Free Fire (GameLoop)
-4.4
-4.4
-Free
-Free popular game on PC
-Grand Theft Auto V4FreeGTA V: Rockstar's open-world blockbuster
-Grand Theft Auto V4FreeGTA V: Rockstar's open-world blockbuster
-Grand Theft Auto V
-4
-4
-Free
-GTA V: Rockstar's open-world blockbuster
-Grand Theft Auto: Vice City3.9FreeGrand Theft Auto Vice City: A great journey to world of crime
-Grand Theft Auto: Vice City3.9FreeGrand Theft Auto Vice City: A great journey to world of crime
-Grand Theft Auto: Vice City
-3.9
-3.9
-Free
-Grand Theft Auto Vice City: A great journey to world of crime
-Related Articles
-Grand Theft Auto: San Andreas Cheats (If You Dare)
-Grand Theft Auto: San Andreas Cheats (If You Dare)
-Grand Theft Auto: San Andreas Cheats (If You Dare)
-7 Coolest Vehicles in Grand Theft Auto: San Andreas
-7 Coolest Vehicles in Grand Theft Auto: San Andreas
-7 Coolest Vehicles in Grand Theft Auto: San Andreas
-Best mods for GTA San Andreas
-Best mods for GTA San Andreas
-Best mods for GTA San Andreas
-Latest articles
-Don’t Miss Out: Adobe’s Biggest Black Friday Deals – Save Big on Creative Cloud
-Don’t Miss Out: Adobe’s Biggest Black Friday Deals – Save Big on Creative Cloud
-Don’t Miss Out: Adobe’s Biggest Black Friday Deals – Save Big on Creative Cloud
-Find out if you have been blocked on WhatsApp or Telegram
-Find out if you have been blocked on WhatsApp or Telegram
-Find out if you have been blocked on WhatsApp or Telegram
-An iPhone that isn't from Apple? This is its curious story
-An iPhone that isn't from Apple? This is its curious story
-An iPhone that isn't from Apple? This is its curious story
-Apple La Vaguada: this is how its inauguration went
-Apple La Vaguada: this is how its inauguration went
-Apple La Vaguada: this is how its inauguration went
-The game that has been accused of plagiarizing Horizon Zero Dawn… But it is more similar to Palworld
-The game that has been accused of plagiarizing Horizon Zero Dawn… But it is more similar to Palworld
-The game that has been accused of plagiarizing Horizon Zero Dawn… But it is more similar to Palworld
-Capture the Magic: Create Your Perfect Family Album with Adobe InDesign This Holiday Season!
-Capture the Magic: Create Your Perfect Family Album with Adobe InDesign This Holiday Season!
-Capture the Magic: Create Your Perfect Family Album with Adobe InDesign This Holiday Season!
-Laws concerning the use of this software vary from country to country. We do not encourage or condone the use of this program if it is in violation of these laws. Softonic may receive a referral fee if you click or buy any of the products featured here.
-About Us
+AI
+AI
+Mobile Gaming
+Mobile Gaming
+Games
+The Game Awards 2024—This is how incredible Ninja Gaiden: Ragebound looks
+María López
+María López
+December 13, 2024
+Updated: December 14, 2024 at 10:41 AM
+Dotemu (Teenage Mutant Ninja Turtles: Shredder’s Revenge, Streets of Rage 4) and The Game Kitchen (Blasphemous) have joined forces to bring Ninja Gaiden: Ragebound, a new game with all the essence of the NES Ninja Gaiden. 
+DOWNLOAD
+According to the press release from Koei Tecmo Games, in Ragebound we will play as Kenji Mozu, a young ninja from the Hayabusa clan. After the events of Ninja Gaiden for NES, where Ryu Hayabusa went to America to avenge his father’s death, a door to darkness has opened in the village. In light of the situation, young Mozu decides to fight to protect Hayabusa from the demonic presences.
+Ragebound is a two-dimensional and side-scrolling title where we will face hundreds of enemies in fast-paced and dynamic combat. If you are a fan of the saga and liked Blasphemous, Ragebound is a game that should be on your radar. It will be released in summer 2025 and will be available for PS4, PS5, Xbox One, Xbox Series X/S, Nintendo Switch, and PC. 
+DOWNLOAD
+María López
+María López
+Artist by vocation and technology lover. I have liked to tinker with all kinds of gadgets for as long as I can remember.
+Latest from María López
+PlayStation joins the Wrapped trend: check out how your 2024 in gaming has been
+PlayStation joins the Wrapped trend: check out how your 2024 in gaming has been
+YouTube opens the door to more users to try AI dubbing
+YouTube opens the door to more users to try AI dubbing
+Adobe Podcast: How Adobe has used AI to improve your Podcast
+Adobe Podcast: How Adobe has used AI to improve your Podcast
+Master the Art of Pre-Sets: Streamline Your Workflow in Lightroom and Photoshop
+Master the Art of Pre-Sets: Streamline Your Workflow in Lightroom and Photoshop
+Editorial Guidelines
+You may also like
+Zenless Zone Zero has a big announcement at The Game Awards: a new characterRead more
+Zenless Zone Zero has a big announcement at The Game Awards: a new characterRead more
+Zenless Zone Zero has a big announcement at The Game Awards: a new character
+Read more
+Apple Intelligence comes to Apple's office suite: Pages, Numbers, and Keynote are updated with these new featuresRead more
+Apple Intelligence comes to Apple's office suite: Pages, Numbers, and Keynote are updated with these new featuresRead more
+Apple Intelligence comes to Apple's office suite: Pages, Numbers, and Keynote are updated with these new features
+Read more
+Mail categories in iOS 18.2: what they are, how to use them, and what we can do if they don't appearRead more
+Mail categories in iOS 18.2: what they are, how to use them, and what we can do if they don't appearRead more
+Mail categories in iOS 18.2: what they are, how to use them, and what we can do if they don't appear
+Read more
+Get your PS5 ready: We have a new Astro Bot updateRead more
+Get your PS5 ready: We have a new Astro Bot updateRead more
+Get your PS5 ready: We have a new Astro Bot update
+Read more
+Pokémon TCG Pocket has an update: these are the new cards that are comingRead more
+Pokémon TCG Pocket has an update: these are the new cards that are comingRead more
+Pokémon TCG Pocket has an update: these are the new cards that are coming
+Read more
+Mafia: The Old Country reveals its release date due to an absurd mistakeRead more
+Mafia: The Old Country reveals its release date due to an absurd mistakeRead more
+Mafia: The Old Country reveals its release date due to an absurd mistake
+Read more
+Read more stories
+Latest Articles
+Loading next article
 Softonic Info
 Softonic Info
 Help & Support
@@ -749,7 +435,6 @@ Jobs
 Jobs
 Editorial Guidelines
 Editorial Guidelines
-B2B
 Monetization solutions for Publishers
 Monetization solutions for Publishers
 Upload and Manage your Software
@@ -758,7 +443,6 @@ Software Policy
 Software Policy
 Advertising Opportunities
 Advertising Opportunities
-Legal
 DMCA
 DMCA
 Legal Information
@@ -769,18 +453,7 @@ Privacy Policy
 Privacy Policy
 Cookie Policy
 Cookie Policy
-Social media
-Become a fan of Softonic
-Become a fan of Softonic
-Follow us @Softonic
-Follow us @Softonic
-Follow us @Softonic
-Follow us @Softonic
-LinkedIn
-LinkedIn
-Subscribe to our RSS feeds
-Subscribe to our RSS feeds
-Softonic in:
+Cookie settings
 عربي
 عربي
 Deutsch
@@ -797,8 +470,8 @@ Italiano
 Italiano
 日本語
 日本語
-한국어/조선말
-한국어/조선말
+한국어
+한국어
 Nederlands
 Nederlands
 Polski
@@ -817,10 +490,5 @@ Tiếng Việt
 Tiếng Việt
 中文
 中文
-Copyright SOFTONIC INTERNATIONAL S.A. © 1997-2024 - All rights reserved
-Your review for Grand Theft Auto: San Andreas
-Your review for Grand Theft Auto: San Andreas
-Thank you for rating!
-OOPS! This is embarrassing...
-Something’s gone terribly wrong.Try this instead
+Copyright SOFTONIC INTERNATIONAL S.A. © 1997–2024 — All rights reserved
 ×
